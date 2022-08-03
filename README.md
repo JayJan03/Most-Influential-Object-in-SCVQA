@@ -3,6 +3,11 @@
  
  This project is written to work upon the model given by https://github.com/jialinwu17/self_critical_vqa
  
+ Please also refer to:
+ https://github.com/peteanderson80/bottom-up-attention
+ https://github.com/shahansa/mcan_attention_visualization/blob/master/img_attn_visualization.py
+ The codes written as part of this project is heavily influenced by above repositories.
+ 
  Task1.ipynb includes commands for execution, understanding and testing aspects of SCVQA model, and codes for purpose of preprocessing. It has many unecessary lines of codes, so please exercise caution while going through it. Please refer it to generate and replicate necessary input files used in this project. 
  
  Please note that the dataset.py file written in original SCVQA model is slightly modified for this project. Please make the changes to run this code on top of SCVQA model.
