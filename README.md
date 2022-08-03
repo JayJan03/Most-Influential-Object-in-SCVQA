@@ -9,6 +9,8 @@
  
 Replication of some of the results obtained in this project requires knowledge of Photoshop. MIO can be removed from the image using Clone Stamp tool of Photoshop.
 
+The creation of image features after feature manipulation is done using Faster RCNN
+
 Contents of folders:
 
 0img : for replacing features with uniform noise
